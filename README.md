@@ -92,7 +92,7 @@ This project demonstrates how to use Python with Z Open Automation Utilities (ZO
 
 This is the Python script used to extract the z/OS LINKLIST and write it to a sequential dataset.
 
-![members.py](docs/members_code.png)
+![members.py](doc/members_code.png)
 
 ---
 
